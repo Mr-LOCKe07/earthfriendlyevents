@@ -1,0 +1,27 @@
+h1{
+  font-size: xx-large;
+  color: darkorange;
+}
+
+p{
+    font-family: -apple-system, sans-serif;
+  color: orange;
+  font-size: x-large;
+}
+
+img{
+  width: 400px;
+  height:400px;
+}
+
+.navbar{
+    position: relative;
+    z-index: 1050;
+}
+
+.dropdown-menu{
+    max-width: 250px;
+    min-width: 180px;
+    right: 0;
+    left: auto;
+}
